@@ -1,0 +1,22 @@
+﻿[{
+    "$TypeId": 3,
+    "Id": "8bd61b87649e4e3795f3ca8222061b68",
+    "Name": "Griavity",
+    "ExportFlags": 0,
+    "Unlisted": false,
+    "Visibility": 0,
+    "TypeCode": "Component",
+    "Fields": [{
+        "Id": "b3bfb8ce5d3a41febec5323027b2c4df",
+        "Name": "gravity",
+        "FieldType": { "Id": "67325dccf2f047c19c7ef4a045354e67", "Name": "Float32" },
+        "Array": false,
+        "Visibility": 0
+    }],
+    "DefaultValue": {
+        "Type": { "Id": "8bd61b87649e4e3795f3ca8222061b68", "Name": "Griavity" },
+        "Properties": {
+            "gravity": 0.08
+        }
+    }
+}]

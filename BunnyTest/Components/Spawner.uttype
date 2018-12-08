@@ -1,0 +1,25 @@
+﻿[{
+    "$TypeId": 3,
+    "Id": "765b879919ee4dce979d77e797b60474",
+    "Name": "Spawner",
+    "ExportFlags": 0,
+    "Unlisted": false,
+    "Visibility": 0,
+    "TypeCode": "Component",
+    "Fields": [{
+        "Id": "3114ff8efa7d4828811c3de79676b3d1",
+        "Name": "bunnyCount",
+        "FieldType": { "Id": "37695933217a49f68ce15db33f63cdf9", "Name": "Int64" },
+        "Array": false,
+        "Visibility": 0
+    }, {
+        "Id": "a95abdce16f3418a948785be9aea9674",
+        "Name": "bunnyGroup",
+        "FieldType": { "Id": "1bff5adddd7c41de98d3329c7c641208", "Name": "String" },
+        "Array": false,
+        "Visibility": 0
+    }],
+    "DefaultValue": {
+        "Type": { "Id": "765b879919ee4dce979d77e797b60474", "Name": "Spawner" }
+    }
+}]

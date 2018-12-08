@@ -1,0 +1,12 @@
+﻿[{
+    "$TypeId": 3,
+    "Id": "a5e2be646b84459d9b95444337e48736",
+    "Name": "BunnyTag",
+    "ExportFlags": 0,
+    "Unlisted": false,
+    "Visibility": 0,
+    "TypeCode": "Component",
+    "DefaultValue": {
+        "Type": { "Id": "a5e2be646b84459d9b95444337e48736", "Name": "BunnyTag" }
+    }
+}]

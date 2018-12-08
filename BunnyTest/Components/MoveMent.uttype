@@ -1,0 +1,58 @@
+﻿[{
+    "$TypeId": 3,
+    "Id": "b35b8a55d3f64463b1bfecee47f4c306",
+    "Name": "MoveMent",
+    "ExportFlags": 0,
+    "Unlisted": false,
+    "Visibility": 0,
+    "Documentation": {
+        "Summary": "移动 System 组件"
+    },
+    "TypeCode": "Component",
+    "Fields": [{
+        "Id": "8ff906c8ae944629bd966a34868403fe",
+        "Name": "speedX",
+        "FieldType": { "Id": "67325dccf2f047c19c7ef4a045354e67", "Name": "Float32" },
+        "Array": false,
+        "Visibility": 0
+    }, {
+        "Id": "f2ee9b853ac0463383e96fe3cbea2a43",
+        "Name": "speedY",
+        "FieldType": { "Id": "67325dccf2f047c19c7ef4a045354e67", "Name": "Float32" },
+        "Array": false,
+        "Visibility": 0
+    }, {
+        "Id": "319e2fe93c97484cab005d103159122a",
+        "Name": "maxX",
+        "FieldType": { "Id": "67325dccf2f047c19c7ef4a045354e67", "Name": "Float32" },
+        "Array": false,
+        "Visibility": 0
+    }, {
+        "Id": "0b169737f15b45cb9df4f97df36d2441",
+        "Name": "minX",
+        "FieldType": { "Id": "67325dccf2f047c19c7ef4a045354e67", "Name": "Float32" },
+        "Array": false,
+        "Visibility": 0
+    }, {
+        "Id": "e618849fdae242ddb2f95ae726ef9f11",
+        "Name": "maxY",
+        "FieldType": { "Id": "67325dccf2f047c19c7ef4a045354e67", "Name": "Float32" },
+        "Array": false,
+        "Visibility": 0
+    }, {
+        "Id": "fc6ae43558b5455a86804ae86be64e1c",
+        "Name": "minY",
+        "FieldType": { "Id": "67325dccf2f047c19c7ef4a045354e67", "Name": "Float32" },
+        "Array": false,
+        "Visibility": 0
+    }],
+    "DefaultValue": {
+        "Type": { "Id": "b35b8a55d3f64463b1bfecee47f4c306", "Name": "MoveMent" },
+        "Properties": {
+            "maxX": 7.5,
+            "minX": -7.5,
+            "maxY": 5,
+            "minY": -5
+        }
+    }
+}]
