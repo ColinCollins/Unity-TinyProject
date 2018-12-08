@@ -7,7 +7,6 @@ namespace game {
     export class SpawnSystem extends ut.ComponentSystem {
         OnUpdate():void {
             let dt = ut.Time.deltaTime();
-            // restart
             if (ut.Core2D.Input.getKeyDown(ut.Core2D.KeyCode.R)) {
                 BunnyManager.restart(this.world);
             }
